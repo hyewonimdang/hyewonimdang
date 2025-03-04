@@ -3,7 +3,7 @@
 # Hi, I'm Hyewon! 👋
 
 </div>
-
+I strive to build seamless user experiences and design essential features by deeply understanding user interactions.
 
 ## 🛠 Tech Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
