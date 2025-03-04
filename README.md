@@ -1,4 +1,9 @@
-# Hi, I'm hyewon!
+<div align="center">
+
+# Hi, I'm Hyewon! 👋
+
+</div>
+
 
 ## 🛠 Tech Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
